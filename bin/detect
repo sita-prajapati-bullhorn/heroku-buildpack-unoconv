@@ -1,4 +1,0 @@
-#!/bin/bash
-
-echo "Libreoffice@5.0.2"
-exit 0
